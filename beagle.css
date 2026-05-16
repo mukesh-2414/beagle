@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    padding: 12px;
+}
+h1{
+    margin-top: 12px;
+    margin-bottom: 12px;
+    text-decoration: underline;
+}
+.section_1{
+    padding: 12px;
+    border: 1px solid black;
+}
+.section_1 p{
+margin-bottom: 22px;
+}
+.section_1 h1{
+margin-bottom: 22px;
+}
+.section_1 a{
+margin-bottom: 22px;
+text-decoration: none;
+}
+
+.section_2 img{
+    width:200px;
+    height:200px;
+    margin-bottom: 16px;
+}
+
+.section_2 a{
+    margin-bottom: 20px;
+    text-decoration: none;
+}
+.section_3 li{
+margin-left: 20px;
+}
+
